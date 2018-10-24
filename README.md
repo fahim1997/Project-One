@@ -1,2 +1,2 @@
 # Project-One
-First Project
+First Project, undecided idea, mainly practice
